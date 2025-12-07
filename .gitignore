@@ -23,6 +23,8 @@
 hs_err_pid*
 replay_pid*
 
+# Ignore screenshots
+screenshot/
 
-#Ignore vscode AI rules
+# Ignore vscode AI rules
 .github/instructions/codacy.instructions.md
